@@ -1,7 +1,7 @@
 Package: captain
 Type: Package
 Title: Running 'git' Pre-Commit Hooks
-Version: 1.1.1
+Version: 1.2.0
 Authors@R: c(
     person("Alex", "Yahiaoui Martinez", , "yahiaoui-martinez.alex@outlook.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-5315-675X"))
@@ -13,14 +13,14 @@ URL: https://github.com/alexym1/captain,
 BugReports: https://github.com/alexym1/captain/issues
 Depends: R (>= 4.1.0)
 Imports: cli, fs, yaml
-Suggests: devtools, covr, knitr, styler, testthat, withr
+Suggests: devtools, covr, knitr, lintr, styler, testthat, withr
 VignetteBuilder: knitr
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2025-09-22 20:22:11 UTC; Admin
+Packaged: 2026-02-22 12:54:07 UTC; Admin
 Author: Alex Yahiaoui Martinez [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-5315-675X>)
 Maintainer: Alex Yahiaoui Martinez <yahiaoui-martinez.alex@outlook.com>
 Repository: CRAN
-Date/Publication: 2025-09-30 07:20:18 UTC
+Date/Publication: 2026-02-22 15:10:02 UTC
